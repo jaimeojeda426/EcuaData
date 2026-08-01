@@ -9,4 +9,4 @@ Minimum Viable Product (MVP):
 
 ## Tech Stack (Planned):
 * Data Pipeline & Back-End: Python, Pandas, PostgreSQL, SQLAlchemy, FastAPI, Plotly
-* Front-End: HTML, CSS, JavaScript**
+* Front-End: HTML, CSS, JavaScript
