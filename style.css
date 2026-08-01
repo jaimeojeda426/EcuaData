@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Inter", Georgia, sans-serif;
+}
+
+header{
+    display: flex; /* Allows us to use flexbox and it's properties on its items*/
+    flex-direction: row; /* Displays flex items horizontally */
+    /* justify-content: aligns the flex items (h1 + btns) horizontally
+        space-between pushes first flex item to far left and last item to far end*/
+    justify-content: space-between; 
+    align-items: center;
+    padding-left: 10px;
+    background-color: purple;
+    color: white;
+
+}
+
+.header-btns{
+    display: flex;
+    flex-direction: row;
+    gap: 120px;
+    padding: 30px;
+}
+
+.abt-btn{
+    font-family: "Inter", Georgia, sans-serif;
+    color: purple;
+    font-weight: bold;
+}
+.viz-btn{
+    font-family: "Inter", Georgia, sans-serif;
+    color: purple;
+    font-weight: bold;
+}
+.fbdk-btn{
+    font-family: "Inter", Georgia, sans-serif;
+    color: purple;
+    font-weight: bold;
+}
