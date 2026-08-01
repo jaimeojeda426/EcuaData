@@ -3,8 +3,9 @@ Project that visualizes and analyzes Ecuadorian election data from 2023 and 2025
 ## Currently At...
 Minimum Viable Product (MVP):
 * Loaded csv with election data into a pandas dataframe. Dataframe is loaded into plotly where visualizations (pie and bar charts) are generated.
-* Showcase:
-* 
+* Showcase: displays votes from the two main candidates from 2025 second round where Noboa won:
+ <img width="700" height="500" alt="Image" src="https://github.com/user-attachments/assets/c74cc3da-8239-4e26-913f-3fe9f9b89f5f" />
+ <img width="700" height="500" alt="Image" src="https://github.com/user-attachments/assets/3b058a5b-ae2a-4abe-984a-9c436e0e94c2" />
 
 ## Tech Stack (Planned):
 * Data Pipeline & Back-End: Python, Pandas, PostgreSQL, SQLAlchemy, FastAPI, Plotly
